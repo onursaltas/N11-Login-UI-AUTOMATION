@@ -1,0 +1,10 @@
+
+2021-12-09 04:07:45 INFO  Waas API:43 - Go To N11 Web Page
+2021-12-09 04:07:52 INFO  Waas API:46 - Verify N11 Web Page From Title
+2021-12-09 04:08:27 INFO  Waas API:43 - Go To N11 Web Page
+2021-12-09 04:08:35 INFO  Waas API:48 - Verify N11 Web Page From Title
+
+2021-12-10 19:38:50 INFO  N11 UI Automation:77 - Go To N11 Web Page
+2021-12-10 19:38:59 INFO  N11 UI Automation:82 - Verify N11 Web Page From Title
+2021-12-10 19:38:59 INFO  N11 UI Automation:27 - Case 1 : Login With Apple
+2021-12-10 19:39:13 INFO  N11 UI Automation:93 - Close Browser
