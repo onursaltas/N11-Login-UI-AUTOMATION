@@ -1,2 +1,33 @@
 # N11-Login-UI-AUTOMATION
 Visit https://www.n11.com/ page, go to Login page and write Login related manual tests cases (functional, UI, security etc).
+
+# Command
+1. The main page is reached with the n11.com url. Click the 'Log In' button on the home page.
+2. It is checked whether the page n11.com/giris-yap has been reached.
+3. The loading status of all web elements (such as text, button, image) on the page that opens is checked.
+4. For the Member Login process, the mail and password boxes are filled and the login process is done with the 'Log In' button.
+a. After the login process, it is checked whether a redirect to the home page is made or not.
+b. It is checked whether warnings are made for unsuitable mail and password formats in the relevant fields.
+c. During the mail and password filling process, min.-max. The character count status is checked.
+d. Min.-max. It is checked whether more characters are written than the number of characters. 
+e. Sign in operation is performed with the wrong mail and password format and it is checked whether there is a warning or not.
+f. It is checked whether the sign-in process is made and whether there is a warning with the information in the correct format and not registered in the system.
+g. The working status of the 'Show' button in the Password box is checked.
+h. During the login process, the 'Remember Me' checkbox is checked and the login process is performed. It is checked whether the relevant information is saved for subsequent login operations.
+
+5. Check the 'Forgot Password' button.
+a. In the field opened with the relevant button, the process of entering an e-mail in the mail box is done.
+b. It is checked whether there is a warning about whether the mail format is appropriate.
+c. Min.-max. It is checked whether there is a character check and warning.
+d. If the mail does not match the records, it is checked whether there is a warning or not to 
+e. The working status of the 'Send' button is checked.
+f. It is checked whether the password renewal link/instructions has been sent to the relevant e-mail.
+g. Password renewal process is performed and login process is performed with the new password.
+h. It is checked whether the relevant box is closed or not.
+
+6. Click on the 'Login with Apple', 'Quick Login' and 'Login with Facebook' buttons and check the redirection to the relevant login pages.
+
+7. The 'Register' button is checked and it is verified that the relevant page has been opened.
+
+8. In the Header and sub-Banner section, it is checked whether there is a clickable area (such as image, button, link, text). If there is a clickable area, the redirection to the relevant page is checked.
+
