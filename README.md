@@ -4,9 +4,9 @@ Visit https://www.n11.com/ page, go to Login page and write Login related manual
 # Command
 1. The main page is reached with the n11.com url. Click the 'Log In' button on the home page.
 2. It is checked whether the page n11.com/giris-yap has been reached.
-3. The loading status of all web elements (such as text, button, image) on the page that opens is checked.
-4. For the Member Login process, the mail and password boxes are filled and the login process is done with the 'Log In' button.
-a. After the login process, it is checked whether a redirect to the home page is made or not.
+3. The loading status of all web elements (such as text, button, image) on the page that opens is checked. <br />
+4. For the Member Login process, the mail and password boxes are filled and the login process is done with the 'Log In' button. <br />
+a. After the login process, it is checked whether a redirect to the home page is made or not. <br />
 b. It is checked whether warnings are made for unsuitable mail and password formats in the relevant fields.
 c. During the mail and password filling process, min.-max. The character count status is checked.
 d. Min.-max. It is checked whether more characters are written than the number of characters. 
