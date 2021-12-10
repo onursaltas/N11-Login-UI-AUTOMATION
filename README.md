@@ -1,7 +1,7 @@
 # N11-Login-UI-AUTOMATION
 Visit https://www.n11.com/ page, go to Login page and write Login related manual tests cases (functional, UI, security etc).
 
-# Command
+# Extent Of Testing
 1. The main page is reached with the n11.com url. Click the 'Log In' button on the home page.
 2. It is checked whether the page n11.com/giris-yap has been reached.
 3. The loading status of all web elements (such as text, button, image) on the page that opens is checked. <br />
